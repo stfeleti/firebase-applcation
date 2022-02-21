@@ -1,0 +1,13 @@
+﻿# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/contentModel.xml
+/projectSettingsUpdater.xml
+/modules.xml
+/.idea.FirebaseHostingBlazorWasm-main.iml
+# Datasource local storage ignored files
+/../../../../../../../../../../:\Users\me\Downloads\Compressed\FirebaseHostingBlazorWasm-main\FirebaseHostingBlazorWasm-main\.idea\.idea.FirebaseHostingBlazorWasm-main.dir\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
